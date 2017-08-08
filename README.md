@@ -16,7 +16,7 @@ It uses Android Data Binding to bind item with view. Item click is also embeded 
     }
 ```
 
-![](screens/device-2017-08-08-113853.png)
+![](screens/device-2017-08-08-113853_small.png)
 
 ### Dependency:
 ```gradle
